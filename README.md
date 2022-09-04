@@ -4,14 +4,19 @@
  
 📧 Howto reach me:leehag1224@naver.com
 
-### Interested in
+### Interested in..
+- Machine Learning
+- Deep Learning
 
-- 
-
-### Toolbox
--  Colab, Ubuntu, Git/Github, WandB
+### Tool
+-  Colab, Git/Github, WandB
 - PyTorch, Tensorflow, Huggingface, Scikit-learn, OpenCV, NumPy, Pandas, Matplotlib, Seaborn
 - BeautifulSoup
+
+
+
+
+
 
 
 
