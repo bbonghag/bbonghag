@@ -1,4 +1,19 @@
-### Hi there 👋
+### Bonghag Lee / Junior ML/DL Engineer
+
+
+ 
+📧 Howto reach me:leehag1224@naver.com
+
+### Interested in
+
+- 
+
+### Toolbox
+-  Colab, Ubuntu, Git/Github, WandB
+- PyTorch, Tensorflow, Huggingface, Scikit-learn, OpenCV, NumPy, Pandas, Matplotlib, Seaborn
+- BeautifulSoup
+
+
 
 <!--
 **bbonghag/bbonghag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
