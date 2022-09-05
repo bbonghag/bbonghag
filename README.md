@@ -5,7 +5,6 @@
 📧 Howto reach me:leehag1224@naver.com
 
 ### Interested in..
-- Hyunna Kim
 - Machine Learning
 - Deep Learning
 
