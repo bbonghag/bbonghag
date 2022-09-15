@@ -6,8 +6,10 @@
 
 ### Interested in..
 <!-- Hyunna Kim --> 
-- Machine Learning
-- Deep Learning
+-  All the Computer Vision tasks
+   - Image Classification, Object detection and Segmentation..etc. 
+   - OCR, Retail, Manufacturing and Construction, Intelligent Video Analytics, Medical imaging, Self-driving cars
+- Time series by ml/dl
 
 ### Tool
 -  Colab, Git/Github, WandB
