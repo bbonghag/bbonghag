@@ -1,9 +1,10 @@
 ### Bonghag Lee / Junior ML/DL Engineer
 
-
+<br/>
  
 📧 How to reach me : leehag1224@naver.com
 
+<br/>
 
 ### Interested in..
 <!-- Hyunna Kim --> 
@@ -17,7 +18,7 @@
 - PyTorch, Tensorflow, Huggingface, Scikit-learn, OpenCV, NumPy, Pandas, Matplotlib, Seaborn
 - BeautifulSoup
 
-
+<br/>
 
 
 ### Works
@@ -29,6 +30,15 @@ Kaggle VinBigData Chest X-ray Abnormalities Detection | 2022.06 | Alphaco | **Fa
 Safety Helmet Object Detection | 2022.04-05 | Alphaco | YOLO V3, V4 | [Safety Helmet Object Detection](https://github.com/bbonghag/Safety-Helmet-Object-Detection#safety-helmet-object-detection)
 Labor-dispute-precedent Text-Classification | 2022.04 | Alphaco | AdaBoost, XGB, RandomForest | [Textmining-project](https://github.com/bbonghag/Textmining-project)
 Movie Web-Crawling | 2022.04 | Alphaco | BeautifulSoup | [Web Crawling-project](https://github.com/bbonghag/Movie-Web-Crawling)
+
+<br/>
+
+### Study Log
+
+Book | Link | 
+-----|------|
+밑바닥부터 시작하는 딥러닝 | [deep-learning-from-scratch](https://github.com/bbonghag/Study-Deep-learning-from-scratch)
+
 
 
 
