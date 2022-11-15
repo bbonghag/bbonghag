@@ -38,7 +38,7 @@ Movie Web-Crawling | 2022.04 | Alphaco | BeautifulSoup | [Web Crawling-project](
 Book | Link | 
 -----|------|
 밑바닥부터 시작하는 딥러닝 | [deep-learning-from-scratch](https://github.com/bbonghag/Study-Deep-learning-from-scratch)
-파이썬으로 배우는 딥러닝 교과서 | 
+파이썬으로 배우는 딥러닝 교과서 | [Deeplearning-book-with-python](https://github.com/bbonghag/Deeplearning-book-with-python)
 
 
 
