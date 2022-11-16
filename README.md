@@ -41,5 +41,9 @@ Book | Link |
 파이썬으로 배우는 딥러닝 교과서 | [Deeplearning-book-with-python](https://github.com/bbonghag/Deeplearning-book-with-python)
 
 
+### Side Project
 
+Project  | Date |   Task | Link
+---------------------------|-------|-----------------|---------------------|
+CIFAR-100  | 2022.11 |   Image Classification | [CIFAR_100](https://github.com/bbonghag/CIFAR_100)
 
