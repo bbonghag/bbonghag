@@ -6,14 +6,14 @@
 
 <br/>
 
-### Interested in..
+## Interested in..
 <!-- Hyunna Kim --> 
 -  All the Computer Vision tasks
    - Image Classification, Object detection and Segmentation..etc. 
    - OCR, Retail, Manufacturing and Construction, Intelligent Video Analytics, Medical imaging, Self-driving cars
 - Time series by ml/dl
 
-### Tool
+## Tool
 - Colab, Git/Github, WandB
 - PyTorch, Tensorflow, Huggingface, Scikit-learn, OpenCV, NumPy, Pandas, Matplotlib, Seaborn
 - BeautifulSoup
@@ -21,7 +21,9 @@
 <br/>
 
 
-### Works
+## Works
+
+### Alpaco Team Project
 
 Project  | Date | Execution Organization | Usage | Link
 ---------------------------|------|-------|-----------------|---------------------|
@@ -33,7 +35,17 @@ Movie Web-Crawling | 2022.04 | Alphaco | BeautifulSoup | [Web Crawling-project](
 
 <br/>
 
-### Study Log
+
+### Side Project
+
+Project  | Date |   Task | Link
+---------------------------|-------|-----------------|---------------------|
+CIFAR-100  | 2022.11 |   Image Classification | [CIFAR_100](https://github.com/bbonghag/CIFAR_100)
+
+<br/>
+
+
+## Study Log
 
 Book | Link | 
 -----|------|
@@ -41,9 +53,4 @@ Book | Link |
 파이썬으로 배우는 딥러닝 교과서 | [Deeplearning-book-with-python](https://github.com/bbonghag/Deeplearning-book-with-python)
 
 
-### Side Project
-
-Project  | Date |   Task | Link
----------------------------|-------|-----------------|---------------------|
-CIFAR-100  | 2022.11 |   Image Classification | [CIFAR_100](https://github.com/bbonghag/CIFAR_100)
 
