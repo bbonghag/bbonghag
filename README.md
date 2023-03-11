@@ -62,7 +62,7 @@ Paper Review
 
 Paper | Link |
 ------|------|
-VGG | 
+VGGNet | [vgg-paper-review](https://github.com/bbonghag/vgg-paper-review)
 
 
 
