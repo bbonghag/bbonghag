@@ -6,7 +6,7 @@
 
 <br/>
 
-2023.12.01~ : TnMTech
+2022.12.01~ : TnMTech
 
 ## Interested in..
 <!-- Hyunna Kim --> 
