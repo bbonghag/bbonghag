@@ -6,6 +6,8 @@
 
 <br/>
 
+2023.12.01~ : In TnMTech
+
 ## Interested in..
 <!-- Hyunna Kim --> 
 -  All the Computer Vision tasks
