@@ -43,6 +43,8 @@ Movie Web-Crawling | 2022.04 | Alphaco | BeautifulSoup | [Web Crawling-project](
 Project  | Date |   Task | Link
 ---------------------------|-------|-----------------|---------------------|
 CIFAR-100  | 2022.11 |   Image Classification | [CIFAR_100](https://github.com/bbonghag/CIFAR_100)
+ISIC2018 Challenge Task3. Disease Classification | 2023.01 | Image Classification | [Task3_Disease Classification](https://github.com/bbonghag/ISIC-2018-Challenge-Task-3-Disease-Classification)
+
 
 <br/>
 
@@ -60,9 +62,9 @@ Book | Link |
 
 ### Paper Review
 
-Paper | Link |
-------|------|
-VGGNet | [vgg-paper-review](https://github.com/bbonghag/vgg-paper-review)
+Paper | Date | Task | Link |
+------|------|------|------|
+VGGNet | 2023.01 | Image Classification | [vgg-paper-review](https://github.com/bbonghag/vgg-paper-review)
 
 
 
