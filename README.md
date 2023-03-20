@@ -25,6 +25,20 @@
 
 ## Works
 
+
+
+
+### Personal Project
+
+Project  | Date |   Task | Link
+---------------------------|-------|-----------------|---------------------|
+ISIC2018 Challenge Task3. Disease Classification | 2023.01 | Image Classification | [Task3_Disease Classification](https://github.com/bbonghag/ISIC-2018-Challenge-Task-3-Disease-Classification)
+CIFAR-100  | 2022.11 |   Image Classification | [CIFAR_100](https://github.com/bbonghag/CIFAR_100)
+
+
+
+<br/>
+
 ### Alpaco Team Project
 
 Project  | Date | Execution Organization | Usage | Link
@@ -34,18 +48,6 @@ Kaggle VinBigData Chest X-ray Abnormalities Detection | 2022.06 | Alphaco | **Fa
 Safety Helmet Object Detection | 2022.04-05 | Alphaco | YOLO V3, V4 | [Safety Helmet Object Detection](https://github.com/bbonghag/Safety-Helmet-Object-Detection#safety-helmet-object-detection)
 Labor-dispute-precedent Text-Classification | 2022.04 | Alphaco | AdaBoost, XGB, RandomForest | [Textmining-project](https://github.com/bbonghag/Textmining-project)
 Movie Web-Crawling | 2022.04 | Alphaco | BeautifulSoup | [Web Crawling-project](https://github.com/bbonghag/Movie-Web-Crawling)
-
-<br/>
-
-
-### Side Project
-
-Project  | Date |   Task | Link
----------------------------|-------|-----------------|---------------------|
-ISIC2018 Challenge Task3. Disease Classification | 2023.01 | Image Classification | [Task3_Disease Classification](https://github.com/bbonghag/ISIC-2018-Challenge-Task-3-Disease-Classification)
-CIFAR-100  | 2022.11 |   Image Classification | [CIFAR_100](https://github.com/bbonghag/CIFAR_100)
-
-
 
 <br/>
 
