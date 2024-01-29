@@ -1,5 +1,7 @@
 ### Bonghag Lee / Junior ML/DL Engineer
 
+
+
 <br/>
  
 📧 How to reach me : leehag1224@naver.com
@@ -22,6 +24,8 @@
 
 <br/>
 
+
+[![코드트리|실력진단-leehag1224](https://banner.codetree.ai/v1/banner/leehag1224)](https://www.codetree.ai/profiles/leehag1224)
 
 ## Works
 
