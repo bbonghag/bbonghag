@@ -9,6 +9,7 @@
 <br/>
 
 2022.12~2024.03 : TnMTech
+
 2024.04~ : Work in HumanDeep
 
 ## Interested in..
