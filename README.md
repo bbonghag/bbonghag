@@ -10,7 +10,7 @@
 
 2022.12~2024.03 : TnMTech
 
-2024.04~ : Work in HumanDeep
+2024.04~2024.06 : HumanDeep
 
 ## Interested in..
 <!-- Hyunna Kim --> 
