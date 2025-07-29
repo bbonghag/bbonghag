@@ -18,16 +18,22 @@
    - Image Classification, Object detection and Segmentation..etc. 
    - OCR, Retail, Manufacturing and Construction, Intelligent Video Analytics, Medical imaging, Self-driving cars
 - Time series by ml/dl
+- Writing about technology and software development on a blog
 
 ## Tool
 - Colab, Git/Github, WandB
 - PyTorch, Tensorflow, Huggingface, Scikit-learn, OpenCV, NumPy, Pandas, Matplotlib, Seaborn
 - BeautifulSoup
 
+## Blog
+
+https://bh-kaizen.tistory.com/
+  
+
 <br/>
 
 
-[![코드트리|실력진단-leehag1224](https://banner.codetree.ai/v1/banner/leehag1224)](https://www.codetree.ai/profiles/leehag1224)
+
 
 ## Works
 
