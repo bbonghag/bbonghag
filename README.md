@@ -38,8 +38,14 @@ https://bh-kaizen.tistory.com/
 
 ## Works
 
+### Naver BoostCamp AI Tech Team Project
+
+Project  | Date | Execution Organization | Usage | Link
+---------------------------|------|-------|-----------------|---------------------|
+PCB Only Detected Once | 2026.02 | Naver BoostCamp AI Tech | Yolov8/v11, Jetson Orin Nano | [PCB-Only-Detected-Once](https://github.com/boostcampaitech8/pro-cv-finalproject-cv-01)
 
 
+<br/>
 
 ### Personal Project
 
@@ -62,13 +68,6 @@ Safety Helmet Object Detection | 2022.04-05 | Alphaco | YOLO V3, V4 | [Safety He
 Labor-dispute-precedent Text-Classification | 2022.04 | Alphaco | AdaBoost, XGB, RandomForest | [Textmining-project](https://github.com/bbonghag/Textmining-project)
 Movie Web-Crawling | 2022.04 | Alphaco | BeautifulSoup | [Web Crawling-project](https://github.com/bbonghag/Movie-Web-Crawling)
 
-<br/>
-
-### Naver BoostCamp AI Tech Team Project
-
-Project  | Date | Execution Organization | Usage | Link
----------------------------|------|-------|-----------------|---------------------|
-PCB Only Detected Once | 2026.02 | Naver BoostCamp AI Tech | Yolov8/v11, Jetson Orin Nano | [PCB-Only-Detected-Once](https://github.com/boostcampaitech8/pro-cv-finalproject-cv-01)
 
 <br/>
 
