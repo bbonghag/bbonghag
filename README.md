@@ -12,8 +12,9 @@
 
 2024.04~2024.06 : HumanDeep
 
+2025.09~2026.02 : Naver BoostCamp AI Tech
+
 ## Interested in..
-<!-- Hyunna Kim --> 
 -  All the Computer Vision tasks
    - Image Classification, Object detection and Segmentation..etc. 
    - OCR, Retail, Manufacturing and Construction, Intelligent Video Analytics, Medical imaging, Self-driving cars
@@ -21,9 +22,9 @@
 - Writing about technology and software development on a blog
 
 ## Tool
-- Colab, Git/Github, WandB
+- Git/Github, WandB
 - PyTorch, Tensorflow, Huggingface, Scikit-learn, OpenCV, NumPy, Pandas, Matplotlib, Seaborn
-- BeautifulSoup
+
 
 ## Blog
 
@@ -60,6 +61,14 @@ Kaggle VinBigData Chest X-ray Abnormalities Detection | 2022.06 | Alphaco | **Fa
 Safety Helmet Object Detection | 2022.04-05 | Alphaco | YOLO V3, V4 | [Safety Helmet Object Detection](https://github.com/bbonghag/Safety-Helmet-Object-Detection#safety-helmet-object-detection)
 Labor-dispute-precedent Text-Classification | 2022.04 | Alphaco | AdaBoost, XGB, RandomForest | [Textmining-project](https://github.com/bbonghag/Textmining-project)
 Movie Web-Crawling | 2022.04 | Alphaco | BeautifulSoup | [Web Crawling-project](https://github.com/bbonghag/Movie-Web-Crawling)
+
+<br/>
+
+### Naver BoostCamp AI Tech Team Project
+
+Project  | Date | Execution Organization | Usage | Link
+---------------------------|------|-------|-----------------|---------------------|
+PCB Only Detected Once | 2026.02 | Naver BoostCamp AI Tech | Yolov8/v11, Jetson Orin Nano | [PCB-Only-Detected-Once](https://github.com/boostcampaitech8/pro-cv-finalproject-cv-01)
 
 <br/>
 
